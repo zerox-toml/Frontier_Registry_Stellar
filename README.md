@@ -13,6 +13,8 @@ https://frontier-registry-demo.netlify.app/
 
 Info Page  https://frontier-registry.carrd.co  
 
+
+
 [Explainer Video](https://www.youtube.com/watch?v=lAxw35kjUzI)
 
 
