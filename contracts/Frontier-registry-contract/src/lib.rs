@@ -9,6 +9,7 @@ pub mod frontier_nft {
     );
 }
 
+
 use storage::Storage;
 
 use types::*;
