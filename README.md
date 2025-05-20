@@ -19,9 +19,9 @@ Info Page  https://frontier-registry.carrd.co
 
 
 
-**Lead Dev for Soroban Build Toru Ichikawa**  
-Contact:  [Portfolio](https://spectrecoder.vercel.app)   Discord @spectrecoder
-Github @spectrecoder 
+**Lead Dev for Soroban Build Aldino Saputra**  
+Contact:  [Portfolio](https://zerox-toml.vercel.app)   Discord @zeroxtoml
+Github @zerox-toml
 
 
 Archived dApp    https://frontier-dapp.netlify.app
@@ -34,9 +34,7 @@ Archived dApp    https://frontier-dapp.netlify.app
 
 This MVP build phase will last 5 weeks with no more than 6 weeks maximum.
 
-The App is now listed on  [Magic Store](https://magic.store/app/frontier-registry) with a scheduled release date of Sept. 15th
-
-
+T
 **The main goals are to**
 1. Adapt Frontier Registry to Stellar Testnet using Soroban Smart Contracts
 2. Integrate Freighter & XBull wallets - using plug-ins noted in the technical architecture
