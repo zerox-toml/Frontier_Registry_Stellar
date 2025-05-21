@@ -3,7 +3,7 @@
 For Soroban Build - w/Support from Stellar Development Foundation as a result of performance July 2024 Kickstarter Bootcamp
 Participants in Bootcamp, Paige Donner, Founder, Frontier Registry, owner IoT Logistics, LLC 
 Contact:  
-Discord @artemisp_3d   Tg @paige3d
+
 
 [IoT Logistics, LLC](https://iotlogistics.international) 
 
